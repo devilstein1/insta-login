@@ -1,28 +1,36 @@
 # 🍪 Instagram Cookie Fetcher
 
-> Fetches session cookies using username and password.
+<p align="center">
+  <img src="https://img.shields.io/badge/Built%20With-Python-blue?style=for-the-badge&logo=python">
+</p>
 
----
-
-## 🧩 Tech
-
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
+<p align="center">
+  <b>Fetches session cookies using username and password</b>
+</p>
 
 ---
 
 ## ⚠️ Disclaimer
 
-For educational purposes only. Use at your own risk.
+> For educational purposes only.  
+> Use at your own risk.
 
 ---
 
 ## 👤 Author
 
-**Stein**  
-📲 Telegram: [@rejerk](https://t.me/rejerk)
+<p align="center">
+  <a href="https://t.me/rejerk">
+    <img src="https://img.shields.io/badge/Telegram-@rejerk-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+</p>
 
 ---
 
-## 💬 Join
+## 💬 Community
 
-👉 [Join @keped](https://t.me/keped)
+<p align="center">
+  <a href="https://t.me/keped">
+    <img src="https://img.shields.io/badge/Join%20Group-@keped-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+</p>
